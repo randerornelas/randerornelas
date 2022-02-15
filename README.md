@@ -2,8 +2,8 @@
 ### Olá, devs!!
 
 - Tenho conhecimentos em:<br>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" witdth="30px" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" witdth="30px" height="30px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" witdth="30px" height="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" witdth="30px" height="30px"/>
 
 - Atualmente estou aprendendo:<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" witdth="30px" height="30px"/>
