@@ -1,16 +1,16 @@
 ## Rander Ornelas
 ### Olá, devs!!
 
-- Tenho conhecimentos em:<br>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" witdth="30px" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" witdth="30px" height="30px"/>
-
 - Atualmente estou aprendendo:<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" witdth="30px" height="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" witdth="30px" title="HTML5" height="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" witdth="30px" title="CSS3" height="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" witdth="30px" title="Nodejs" height="30px"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" witdth="30px" title="React" height="30px"/> -->
+
+- Tenho conhecimentos em:<br>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" witdth="30px" height="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" witdth="30px" height="30px"/>
 
 - SO:<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdth="30px" height="30px"/> Arch Linux <br>
