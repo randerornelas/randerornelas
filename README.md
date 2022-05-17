@@ -10,7 +10,7 @@
 
 - Tenho conhecimentos em:<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" witdth="30px" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" witdth="30px" height="30px"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" witdth="30px" height="30px"/> -->
 
 - SO:<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdth="30px" height="30px"/> Arch Linux <br>
