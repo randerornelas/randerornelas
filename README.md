@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdth="30px" height="30px"/> Arch Linux <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" witdth="30px" height="30px"/> Debian <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdth="30px" height="30px"/> OpenSUSE <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" witdth="30px" height="30px"/> Windows XP, 7, 8, 10
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" witdth="30px" height="30px"/> Windows XP, 7, 8, 10, 11
 
 - Contatos:<br>
   <div>
