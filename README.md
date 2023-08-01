@@ -1,22 +1,13 @@
 ## Rander Ornelas
 ### Olá, devs!!
 
-- Atualmente estou aprendendo:<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" witdth="30px" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" witdth="30px" title="HTML5" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" witdth="30px" title="CSS3" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" witdth="30px" title="NodeJS" height="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" witdth="30px" title="React" height="30px"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30px" title="Angular" height="30px"/> -->
-
-- Tenho conhecimentos em:<br>
+- Atualmente estou aperfeiçoando meus conhecimentos em:<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" witdth="30px" height="30px"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" witdth="30px" height="30px"/> -->
+ 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" witdth="30px" height="30px"/>
 
 - SO:<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdth="30px" height="30px"/> Arch Linux <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" witdth="30px" height="30px"/> Debian <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdth="30px" height="30px"/> OpenSUSE <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" witdth="30px" height="30px"/> Windows XP, 7, 8, 10, 11
 
 - Contatos:<br>
